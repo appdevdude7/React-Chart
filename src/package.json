@@ -1,0 +1,11 @@
+{
+  "name": "Pie Chart Simple",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "react": "latest",
+    "reaviz": "latest",
+    "react-dom": "latest"
+  }
+}
